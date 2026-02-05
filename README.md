@@ -29,3 +29,4 @@ Instagram -  https://www.instagram.com/freebirdscrew
 The More You Analyze, More You Get Insights from the Data.
 "# AI_ChatBot_Python" 
 "# Expense-Tracker" 
+"# Real-Time-Face-Mask-Detection" 
